@@ -1,4 +1,4 @@
-<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=[Jain-nikhilkumar/-Text-Summarization-with-NLP](https://github.com/Jain-nikhilkumar/-Text-Summarization-with-NLP)&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=[Jain-nikhilkumar/-Text-Summarization-with-NLP](https://github.com/Jain-nikhilkumar/-Text-Summarization-with-NLP)&image_size=auto" />|
+<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=[Jain-nikhilkumar/-Text-Summarization-with-NLP]&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=[Jain-nikhilkumar/-Text-Summarization-with-NLP]&image_size=auto" />|
 
 <h1 align="left">🌟 Text Summarization with Deep Learning</h1>
 
